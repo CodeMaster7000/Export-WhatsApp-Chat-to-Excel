@@ -18,3 +18,5 @@ Navigate to `src`, then run:
 
 - `python3 BackupChats.py` in a terminal if you have Mac/Linux.
 - `python BackupChats.py` in a terminal if you have Windows.
+
+NOTE: Replace `PASTE_ACCESS_TOKEN` (line 5) with your personal Pushbullet access token.
