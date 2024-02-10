@@ -1,8 +1,8 @@
-# Export WhatsApp Chat to Excel
+# Export WhatsApp Chats to Excel
 
 ## About
 
-A handy Python program to backup a WhatsApp chat to an Excel document.
+A handy Python program to backup WhatsApp chat(s) to an Excel document.
 
 ## Prerequisites
 
