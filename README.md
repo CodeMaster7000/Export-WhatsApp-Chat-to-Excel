@@ -14,4 +14,7 @@ A handy Python program to backup a WhatsApp chat to an Excel document.
 
 ## Implementation
 
-Navigate to `src`, then run `python3 BackupChats.py` in a terminal if you have Python 3.
+Navigate to `src`, then run:
+
+- `python3 BackupChats.py` in a terminal if you have Mac/Linux.
+- `python BackupChats.py` in a terminal if you have Windows.
