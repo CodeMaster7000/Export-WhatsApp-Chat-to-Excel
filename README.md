@@ -11,3 +11,7 @@ A handy Python program to backup a WhatsApp chat to an Excel document.
 - `openpyxl` library (can be installed with `pip install openpyxl`)
 - Pushbullet [API and Access Token](https://www.pushbullet.com)
 - Python 3
+
+## Implementation
+
+Navigate to `src`, then run `python3 BackupChats.py` in a terminal if you have Python 3.
